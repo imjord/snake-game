@@ -1,2 +1,2 @@
 # snake-game
-Udemy Course
+Snake game made with javascirpt
